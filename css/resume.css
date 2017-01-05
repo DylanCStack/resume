@@ -1,0 +1,25 @@
+.contact {
+  background-color:pink;
+  text-align: center;
+}
+
+.skills {
+  background-color:skyblue;
+}
+
+.jobs {
+  background-color:lightgreen;
+}
+
+.intro {
+  background-color:lightyellow;
+  font-style:italic;
+}
+
+div {
+  padding:20px;
+}
+
+span {
+  font-weight: 600;
+}
